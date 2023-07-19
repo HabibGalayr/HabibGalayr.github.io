@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 Title](/Ball Progression U23 Midfielders)
+<img src="images/BallProg_R.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
