@@ -8,8 +8,8 @@
 <img src="images/BallProg_R.png?raw=true"/>
 
 ---
-[Project 2 Title](https://github.com/HabibGalayr/Income-Census-Predict.git)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Predicting Income Using Adult Census Data (1994)](https://github.com/HabibGalayr/Income-Census-Predict.git)
+<img src="images/Dtree_income.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
