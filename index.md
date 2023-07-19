@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Ball Progression U23 Midfielders)
+[Ball Progression U23 Midfielders](/sample page)
 <img src="images/BallProg_R.png?raw=true"/>
 
 ---
