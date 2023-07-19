@@ -8,7 +8,7 @@
 <img src="images/BallProg_R.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 Title](https://github.com/HabibGalayr/Income-Census-Predict.git)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
