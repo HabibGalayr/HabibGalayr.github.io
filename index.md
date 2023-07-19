@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Ball Progression U23 Midfielders](/sample page)
+[Ball Progression U23 Midfielders](https://github.com/HabibGalayr/BallProg_R.git)
 <img src="images/BallProg_R.png?raw=true"/>
 
 ---
