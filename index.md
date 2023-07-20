@@ -14,6 +14,7 @@ Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Da
 My objective in this study was to identify the most accurate model for determining whether an individual earned more than $50,000 a year. Additionally, I was interested in learning which predictor variables influenced this the most. 
 
 ---
+
 [Project 3 Title](https://github.com/HabibGalayr/Seismic-Noise.git)
 <img src="images/Seis_CVD19.jpg?raw=true"/>
 
