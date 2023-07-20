@@ -23,6 +23,10 @@ Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Da
 <img src="images/Lon_Chlo.jpg?raw=true"/>
 Using SQL & SpatiaLite to create a chloropleth map which shows total counts of crime per 1000 persons in the London area. The darker the shade the higher rate of crime, inner London shows higher rate of crime (131 counts of crime per 1000 persons).
 
+---
+
+### Python Projects
+
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
