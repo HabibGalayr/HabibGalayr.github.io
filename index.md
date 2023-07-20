@@ -11,6 +11,7 @@ Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Da
 ---
 [Predicting Income Using Adult Census Data (1994)](https://github.com/HabibGalayr/Income-Census-Predict.git)
 <img src="images/Dtree_income.jpg?raw=true"/>
+My objective in this study was to identify the most accurate model for determining whether an individual earned more than $50,000 a year. Additionally, I was interested in learning which predictor variables influenced this the most. 
 
 ---
 [Project 3 Title](http://example.com/)
@@ -21,7 +22,7 @@ Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Da
 ### Spatial Data
 [Crime Map in London](http://example.com/)
 <img src="images/Lon_Chlo.jpg?raw=true"/>
-Using SQL & SpatiaLite to create a chloropleth map which shows total counts of crime per 1000 persons in the London area. The darker the shade the higher rate of crime, inner London shows higher rate of crime (131 counts of crime per 1000 persons).
+Using SQL & SpatiaLite to create a chloropleth map which shows total counts of crime per 1000 persons in the London area. The darker the shade the higher rate of crime, Inner London shows higher rate of crime (131 counts of crime per 1000 persons).
 
 ---
 
