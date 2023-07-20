@@ -6,6 +6,7 @@
 
 [Ball Progression U23 Midfielders](https://github.com/HabibGalayr/BallProg_R.git)
 <img src="images/BallProg_R.png?raw=true"/>
+Graph showing ball progression for U23 midfielders in Europtes top 5 leagues. Data collected from R and visualised on Tableau. Jeremy Doku (Stade Rennais) & Rayan Cherki (Lyon) are exceptional progressors in both carrying & passing. 
 
 ---
 [Predicting Income Using Adult Census Data (1994)](https://github.com/HabibGalayr/Income-Census-Predict.git)
