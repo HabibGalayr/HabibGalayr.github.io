@@ -22,9 +22,9 @@ The purpose of the project work intends to look closely at the effects of COVID-
 ---
 
 ### Spatial Data
-[Crime Map in London](http://example.com/)
+[London Boroughs](https://github.com/HabibGalayr/LondonBorough.git)
 <img src="images/Lon_Chlo.jpg?raw=true"/>
-Using SQL & SpatiaLite to create a chloropleth map which shows total counts of crime per 1000 persons in the London area. The darker the shade the higher rate of crime, Inner London shows higher rate of crime (131 counts of crime per 1000 persons).
+Using spatialite to extract information on London boroughs. These included closest boroughs to motorways and buffer zones, crime rate and northernmost/easternmost/southernmost and westernmost boroughs in London. 
 
 ---
 
