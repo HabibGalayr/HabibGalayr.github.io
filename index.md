@@ -15,8 +15,9 @@ My objective in this study was to identify the most accurate model for determini
 
 ---
 
-[Project 3 Title](https://github.com/HabibGalayr/Seismic-Noise.git)
+[Seismic Analysis in UK during COVID-19 lockdown](https://github.com/HabibGalayr/Seismic-Noise.git)
 <img src="images/Seis_CVD19.jpg?raw=true"/>
+The purpose of the project work intends to look closely at the effects of COVID-19 during the lockdown period, how anthropogenic activity during this time may be correlated with seismic noise in different regions in the United Kingdom.
 
 ---
 
