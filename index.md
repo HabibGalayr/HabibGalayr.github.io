@@ -10,7 +10,7 @@ Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Da
 
 ---
 
-[Relationship between Premier League Goal Difference & League Position](https://github.com/HabibGalayr/League-Table-GD.git)
+[Relationship between Premier League Goal Difference & League Position](https://github.com/HabibGalayr/League-Table-PL-GD.git)
 <img src="images/premline.png?raw=true"/>
 Linear regression model showing the relationship between goal difference and league table rank 1995/96- 2019/20. Correlation coefficent really high (0.84).
 
