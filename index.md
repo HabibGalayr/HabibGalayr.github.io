@@ -10,7 +10,7 @@ Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Da
 
 ---
 
-[Relationship between Premier League Goal Difference & League Position](https://github.com/HabibGalayr/League-Table-PL-GD.git)
+[Relationship Between Premier League Goal Difference & League Position](https://github.com/HabibGalayr/League-Table-PL-GD.git)
 <img src="images/premline.png?raw=true"/>
 Linear regression model showing the relationship between goal difference and league table rank 1995/96- 2019/20. Correlation coefficent really high (0.84).
 
@@ -22,16 +22,16 @@ Linear regression model showing the relationship between goal difference and lea
 <img src="images/Dtree_income.jpg?raw=true"/>
 My objective in this study was to identify the most accurate model for determining whether an individual earned more than $50,000 a year. Additionally, I was interested in learning which predictor variables influenced this the most. 
 
---- ### Time Series Analysis
+### Time Series Analysis
 
-[Seismic Analysis in UK during COVID-19 lockdown](https://github.com/HabibGalayr/Seismic-Noise.git)
+[Seismic Analysis In UK During COVID-19 Lockdown](https://github.com/HabibGalayr/Seismic-Noise.git)
 <img src="images/Seis_CVD19.jpg?raw=true"/>
 The purpose of the project work intends to look closely at the effects of COVID-19 during the lockdown period, how anthropogenic activity during this time may be correlated with seismic noise in different regions in the United Kingdom.
 
 ---
 
 ### Spatial Data
-[London Boroughs](https://github.com/HabibGalayr/LondonBorough.git)
+[London Boroughs Analysis](https://github.com/HabibGalayr/LondonBorough.git)
 <img src="images/Lon_Chlo.jpg?raw=true"/>
 Using spatialite to extract information on London boroughs. These included closest boroughs to motorways and buffer zones, crime rate and northernmost/easternmost/southernmost and westernmost boroughs in London. 
 
