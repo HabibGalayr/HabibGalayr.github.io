@@ -16,11 +16,13 @@ Linear regression model showing the relationship between goal difference and lea
 
 ---
 
+### Predictive Modelling
+
 [Predicting Income Using Adult Census Data (1994)](https://github.com/HabibGalayr/Income-Census-Predict.git)
 <img src="images/Dtree_income.jpg?raw=true"/>
 My objective in this study was to identify the most accurate model for determining whether an individual earned more than $50,000 a year. Additionally, I was interested in learning which predictor variables influenced this the most. 
 
----
+--- ### Time Series Analysis
 
 [Seismic Analysis in UK during COVID-19 lockdown](https://github.com/HabibGalayr/Seismic-Noise.git)
 <img src="images/Seis_CVD19.jpg?raw=true"/>
@@ -35,13 +37,7 @@ Using spatialite to extract information on London boroughs. These included close
 
 ---
 
-### Python Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
 
