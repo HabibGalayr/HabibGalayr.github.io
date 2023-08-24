@@ -6,9 +6,11 @@
 
 [Ball Progression U23 Midfielders](https://github.com/HabibGalayr/BallProg_R.git)
 <img src="images/BallProg23.jpg?raw=true"/>
-Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Data collected from R and visualised on Tableau. Jeremy Doku (Stade Rennais) & Rayan Cherki (Lyon) are exceptional progressors in both carrying & passing. 
+Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Data collected from R and visualised on Tableau. Jeremy Doku (Stade Rennais) & Rayan Cherki (Lyon) are exceptional progressors in both carrying & passing.
 
-[Relationship between Premier League Goal Difference & League Position](https://github.com/HabibGalayr/BallProg_R.git)
+---
+
+[Relationship between Premier League Goal Difference & League Position](https://github.com/HabibGalayr/League-Table-GD.git)
 <img src="images/premline.png?raw=true"/>
 Linear regression model showing the relationship between goal difference and league table rank 1995/96- 2019/20. Correlation coefficent really high (0.84).
 ---
