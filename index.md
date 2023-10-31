@@ -2,6 +2,18 @@
 
 ---
 
+### Spatial Data
+
+[Remote Sensing - NDWI ](https://github.com/HabibGalayr/remote-sensing-NDWI)
+<img src="images/ndwi.png?raw=true"/>
+Using Google Earth Engine focusing on The Normalized Difference Water Index (NDWI) which is used to detect water bodies or changes in water level, and is typically used to detect flooding. I analysed satellite imagery from Sentinel-2 taken before and after the 2020 Kyushu Floods in Japan.
+
+---
+
+[London Boroughs Analysis](https://github.com/HabibGalayr/LondonBorough.git)
+<img src="images/Lon_Chlo.jpg?raw=true"/>
+Using spatialite to extract information on London boroughs. These included closest boroughs to motorways and buffer zones, crime rate and northernmost/easternmost/southernmost and westernmost boroughs in London. 
+
 ### Sports Analytics 
 
 [Ball Progression U23 Midfielders](https://github.com/HabibGalayr/BallProg_R.git)
@@ -27,16 +39,6 @@ My objective in this study was to identify the most accurate model for determini
 [Seismic Analysis In UK During COVID-19 Lockdown](https://github.com/HabibGalayr/Seismic-Noise.git)
 <img src="images/Seis_CVD19.jpg?raw=true"/>
 The purpose of the project work intends to look closely at the effects of COVID-19 during the lockdown period, how anthropogenic activity during this time may be correlated with seismic noise in different regions in the United Kingdom.
-
----
-
-### Spatial Data
-[London Boroughs Analysis](https://github.com/HabibGalayr/LondonBorough.git)
-<img src="images/Lon_Chlo.jpg?raw=true"/>
-Using spatialite to extract information on London boroughs. These included closest boroughs to motorways and buffer zones, crime rate and northernmost/easternmost/southernmost and westernmost boroughs in London. 
-
----
-
 
 
 ---
