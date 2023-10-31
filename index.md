@@ -10,6 +10,12 @@ Using Google Earth Engine focusing on The Normalized Difference Water Index (NDW
 
 ---
 
+[Remote Sensing - Landcover USA](https://github.com/HabibGalayr/NLCD_LandCover_Vis_USA)
+<img src="images/NLCD_LANDCOVER_US.jpg?raw=true"/>
+Using satellite imagery to visualise land cover of USA using Google Earth Engine. 
+
+---
+
 [London Boroughs Analysis](https://github.com/HabibGalayr/LondonBorough.git)
 <img src="images/Lon_Chlo.jpg?raw=true"/>
 Using spatialite to extract information on London boroughs. These included closest boroughs to motorways and buffer zones, crime rate and northernmost/easternmost/southernmost and westernmost boroughs in London. 
