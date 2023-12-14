@@ -24,6 +24,12 @@ Using satellite imagery to visualise land cover of USA using Google Earth Engine
 
 ### Sports Analytics 
 
+[Premier League Table](https://github.com/HabibGalayr/PL-Weekly-Table)
+<img src="images/plweek16.png?raw=true"/>
+Table showing Premier league table with advanced statistics. Key positions in the league highlighted, European spots in green & yellow as well as relegation spots in red. 
+
+---
+
 [Ball Progression U23 Midfielders](https://github.com/HabibGalayr/BallProg_R.git)
 <img src="images/BallProg23.jpg?raw=true"/>
 Graph showing ball progression for U23 midfielders in Europe's top 5 leagues. Data collected from R and visualised on Tableau. Jeremy Doku (Stade Rennais) & Rayan Cherki (Lyon) are exceptional progressors in both carrying & passing.
